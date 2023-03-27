@@ -45,7 +45,7 @@ class HomeState extends State<Home> {
             if (snapshot.hasData) {
               return ListView(children: snapshot.data!.map(buildUser).toList());
             }
-            return Text ('Eroor');
+            return Text ('Loading....');
           }),
     );
   }
