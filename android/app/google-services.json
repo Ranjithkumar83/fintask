@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951157092403",
+    "project_id": "fincom-f997f",
+    "storage_bucket": "fincom-f997f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951157092403:android:037f1f68e57359466f7346",
+        "android_client_info": {
+          "package_name": "com.example.fintask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951157092403-re15tpc4fa7sfj9ia7455g631jhlq8jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCie96IkJ3E75XNXKwmWYSQPf-N49RAgEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951157092403-re15tpc4fa7sfj9ia7455g631jhlq8jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
